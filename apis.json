@@ -1,0 +1,60 @@
+{
+    "name": "Federal Aviation Administration",
+    "description": "The Federal Aviation Administration is an operating mode of the U.S. Department of Transportation.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/11211-federal-aviation-administration.jpg",
+    "tags": [
+        "api provider",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/federal-aviation-administration\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Federal Aviation Administration",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/11211-federal-aviation-administration.jpg",
+            "humanURL": "https:\/\/services.faa.gov",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/federal-aviation-administration-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/federal-aviation-administration-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/federal-aviation-administration"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/services.faa.gov\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/FAANews"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/services.faa.gov"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/faa.gov"
+        },
+        {
+            "type": "Wikipedia",
+            "url": "http:\/\/en.wikipedia.org\/wiki\/Federal_Aviation_Administration"
+        }
+    ]
+}
